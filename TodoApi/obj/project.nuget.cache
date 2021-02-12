@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iteKgwkHQl4Ek+U6rZvTxlgFLUo7hWTpLOYcHuOsAQdBJBvPtL6hqmWsCkruaLEHdIvdUXUvqgZWF3KWXieeRg==",
+  "dgSpecHash": "JfJcHvgFWCBIfyhW/GHNG+sBa9lJE1wevpIiVoXHeRE1JfNQgEajDdT1+pYm79PoL9DdhlxYN9uT7tHW693ntw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rjds7402065\\Documents\\ASP.NET Tutorial\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\rjds7402065\\Documents\\ASPNET\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rjds7402065\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rjds7402065\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

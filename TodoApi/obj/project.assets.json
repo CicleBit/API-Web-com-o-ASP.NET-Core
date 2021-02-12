@@ -7361,11 +7361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rjds7402065\\Documents\\ASP.NET Tutorial\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\rjds7402065\\Documents\\ASPNET\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\rjds7402065\\Documents\\ASP.NET Tutorial\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\rjds7402065\\Documents\\ASPNET\\API-Web-com-o-ASP.NET-Core\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\rjds7402065\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rjds7402065\\Documents\\ASP.NET Tutorial\\API-Web-com-o-ASP.NET-Core\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\rjds7402065\\Documents\\ASPNET\\API-Web-com-o-ASP.NET-Core\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rjds7402065\\AppData\\Roaming\\NuGet\\NuGet.Config",
